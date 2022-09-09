@@ -1,4 +1,1 @@
-# pets room
-# banner
-# categories
-# search
+# salome
