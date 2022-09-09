@@ -2,3 +2,5 @@
 # banner
 # categories
 # search
+# payment
+order
